@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主题基调：Folia 偏"叶"的青色系，深色下偏墨绿 -->
+    <color name="folia_primary">#22C55E</color>
+    <color name="folia_on_primary">#062812</color>
+    <color name="folia_surface">#0B1410</color>
+    <color name="ic_launcher_background">#062812</color>
+</resources>

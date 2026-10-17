@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 深色模式：跟随系统，状态栏/导航栏均透明，交给 Compose 处理 -->
+    <style name="Theme.FoliaXiaomi" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/folia_surface</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+        <item name="android:colorAccent">@color/folia_primary</item>
+    </style>
+</resources>

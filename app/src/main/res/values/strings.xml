@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Folia·辞曲</string>
+    <string name="local_tab">本地</string>
+    <string name="online_tab">在线</string>
+    <string name="search_hint">搜索歌曲 / 歌手 / 专辑</string>
+    <string name="permission_denied">请在系统设置中授予音乐读取权限后重试</string>
+    <string name="empty_local">尚未授权或没有本地音乐，点击授予权限</string>
+    <string name="empty_online">没有找到结果，试试换一个关键词</string>
+    <string name="now_playing">正在播放</string>
+    <string name="grant_permission">授予权限</string>
+    <string name="open_settings">打开设置</string>
+    <string name="playlist_title">曲库</string>
+</resources>
